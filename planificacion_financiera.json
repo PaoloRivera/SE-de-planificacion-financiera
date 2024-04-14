@@ -1,0 +1,258 @@
+{
+  "__v": 1,
+  "description": "Base de conocimiento de planificación financiera en Perú",
+  "entries": [
+    {
+      "name": "Fondo Mutuo de Renta Fija",
+      "description": "Inversión que se compone principalmente de instrumentos de deuda que buscan generar retornos a través de intereses. Adecuado para inversores con un perfil de riesgo conservador.",
+      "props": [
+        "Bajo riesgo",
+        "Rendimiento moderado",
+        "Liquidez media-alta",
+        "Beneficios tributarios"
+      ]
+    },
+    {
+      "name": "Certificado de Depósito",
+      "description": "Producto bancario que ofrece una tasa de interés fija a cambio de mantener un depósito por un período determinado. Ideal para inversores que buscan seguridad y previsibilidad en sus retornos.",
+      "props": [
+        "Seguridad alta",
+        "Rendimiento fijo",
+        "Liquidez baja",
+        "Protección del FSD"
+      ]
+    },
+    {
+      "name": "Acciones en la BVL",
+      "description": "Inversión en participaciones de propiedad en empresas listadas en la Bolsa de Valores de Lima. Ofrece potencial de crecimiento y dividendos, adecuado para perfiles de riesgo más agresivos.",
+      "props": [
+        "Alto riesgo",
+        "Potencial de alto rendimiento",
+        "Liquidez variable",
+        "Exposición al mercado peruano"
+      ]
+    },
+    {
+      "name": "Inmuebles",
+      "description": "Inversión en propiedades físicas como casas, apartamentos o locales comerciales. Busca generar ingresos por alquiler y/o apreciación del valor del inmueble.",
+      "props": [
+        "Riesgo medio",
+        "Rendimiento a través de alquiler/apreciación",
+        "Liquidez baja",
+        "Costos de mantenimiento"
+      ]
+    },
+    {
+      "name": "Seguro de Vida con Componente de Ahorro",
+      "description": "Producto financiero que combina protección en caso de fallecimiento con una cuenta de ahorro o inversión. Ofrece beneficios fiscales y es una forma de asegurar herencia.",
+      "props": [
+        "Protección financiera",
+        "Componente de ahorro",
+        "Beneficios fiscales",
+        "Planificación sucesoria"
+      ]
+    },
+    {
+      "name": "ETFs que Invierten en el Exterior",
+      "description": "Fondos cotizados en bolsa que invierten en activos fuera de Perú, permitiendo diversificación geográfica. Adecuado para inversores que buscan exposición internacional.",
+      "props": [
+        "Diversificación geográfica",
+        "Exposición a mercados internacionales",
+        "Liquidez alta",
+        "Riesgo y retorno dependientes del mercado objetivo"
+      ]
+    },
+    {
+      "name": "Bonos del Gobierno Peruano",
+      "description": "Instrumentos de deuda emitidos por el gobierno de Perú para financiar sus actividades. Considerados inversiones de bajo riesgo, adecuados para perfiles conservadores.",
+      "props": [
+        "Bajo riesgo",
+        "Rendimiento fijo",
+        "Protección contra la inflación",
+        "Beneficios tributarios"
+      ]
+    },
+    {
+      "name": "Cuenta de Ahorros",
+      "description": "Producto bancario básico para guardar dinero con cierto nivel de interés. Ofrece alta liquidez y seguridad, con protección del Fondo de Seguro de Depósitos.",
+      "props": [
+        "Alta seguridad",
+        "Rendimiento bajo",
+        "Liquidez muy alta",
+        "Protección del FSD"
+      ]
+    },
+    {
+      "name": "Fondo de Inversión Inmobiliario",
+      "description": "Fondo que invierte en propiedades inmobiliarias con el objetivo de generar ingresos por alquileres y apreciación. Adecuado para inversores que buscan ingresos pasivos.",
+      "props": [
+        "Riesgo medio-alto",
+        "Potencial de ingresos pasivos",
+        "Liquidez media",
+        "Diversificación dentro del sector inmobiliario"
+      ]
+    },
+    {
+      "name": "Plan de Pensiones Privado",
+      "description": "Sistema de ahorro voluntario para la jubilación, gestionado por entidades privadas. Permite a los contribuyentes acumular un fondo para su retiro, con incentivos fiscales.",
+      "props": [
+        "Preparación para la jubilación",
+        "Aportes voluntarios",
+        "Beneficios fiscales",
+        "Variedad de opciones de inversión"
+      ]
+    },
+    {
+      "name": "Préstamos Peer-to-Peer (P2P)",
+      "description": "Plataformas que conectan a personas que buscan préstamos con inversores dispuestos a financiarlos. Ofrece la posibilidad de obtener rendimientos superiores a los de productos de ahorro tradicionales.",
+      "props": [
+        "Riesgo medio-alto",
+        "Rendimiento variable",
+        "Contribución al desarrollo económico",
+        "Inversión social"
+      ]
+    },
+    {
+      "name": "Criptomonedas",
+      "description": "Inversión en monedas digitales, como Bitcoin o Ethereum. Altamente volátiles, representan una oportunidad de inversión de alto riesgo y alto retorno.",
+      "props": [
+        "Alto riesgo",
+        "Alto potencial de retorno",
+        "Alta volatilidad",
+        "Inversión en tecnología blockchain"
+      ]
+    },
+    {
+      "name": "Crowdfunding Inmobiliario",
+      "description": "Inversión colectiva en proyectos inmobiliarios. Permite a inversores participar en el sector inmobiliario con montos menores a los requeridos tradicionalmente.",
+      "props": [
+        "Riesgo medio",
+        "Rendimiento potencial por rentas y plusvalía",
+        "Accesibilidad a inversión inmobiliaria",
+        "Diversificación de cartera"
+      ]
+    },
+    {
+      "name": "Planes de Ahorro Programado",
+      "description": "Productos financieros que permiten a los usuarios ahorrar dinero de manera programada, a menudo con un rendimiento fijo o variable, destinados a objetivos de largo plazo como educación o jubilación.",
+      "props": [
+        "Riesgo bajo a medio",
+        "Rendimiento fijo o variable",
+        "Fomenta la disciplina de ahorro",
+        "Beneficios tributarios para planes de jubilación"
+      ]
+    },
+    {
+      "name": "Seguros de Inversión",
+      "description": "Productos que combinan la protección de un seguro de vida con la oportunidad de invertir en diversos instrumentos financieros. Ofrecen un componente de ahorro o inversión junto con el beneficio de protección.",
+      "props": [
+        "Protección financiera",
+        "Potencial de crecimiento de capital",
+        "Flexibilidad en la elección de inversiones",
+        "Ventajas fiscales"
+      ]
+    },
+    {
+      "name": "Fondos Cotizados en Bolsa (ETFs) Locales",
+      "description": "Fondos que replican el comportamiento de índices bursátiles peruanos, permitiendo a los inversores ganar exposición a todo el mercado o sectores específicos de este, con una sola transacción.",
+      "props": [
+        "Bajo costo por diversificación",
+        "Flexibilidad de compra y venta",
+        "Exposición al mercado local",
+        "Liquidez alta"
+      ]
+    },
+    {
+      "name": "Bonos Verdes",
+      "description": "Inversiones en bonos que financian proyectos con beneficios ambientales. Son emitidos por entidades gubernamentales y corporaciones para financiar proyectos sostenibles.",
+      "props": [
+        "Fomenta proyectos sostenibles",
+        "Riesgo y retorno dependientes del emisor",
+        "Contribuye a objetivos ambientales",
+        "Posibles beneficios tributarios"
+      ]
+    },
+    {
+      "name": "Robo-Advisors",
+      "description": "Servicios de gestión de inversiones automatizados que utilizan algoritmos para administrar carteras de inversores, basándose en sus objetivos y tolerancia al riesgo.",
+      "props": [
+        "Bajo costo de gestión",
+        "Inversión automatizada y personalizada",
+        "Acceso fácil para principiantes",
+        "Optimización continua de la cartera"
+      ]
+    },
+    {
+      "name": "Inversión en Startups",
+      "description": "Capital semilla para empresas emergentes con alto potencial de crecimiento. Aunque arriesgado, puede ofrecer retornos significativos si la startup tiene éxito.",
+      "props": [
+        "Alto riesgo",
+        "Potencial de retorno elevado",
+        "Fomenta la innovación y el emprendimiento",
+        "Inversión a largo plazo"
+      ]
+    },
+    {
+      "name": "Fondos de Cobertura (Hedge Funds)",
+      "description": "Fondos de inversión privados y cerrados que utilizan una amplia gama de estrategias para maximizar el retorno, incluyendo inversión en activos tradicionales y derivados.",
+      "props": [
+        "Alto potencial de retorno",
+        "Diversificación avanzada",
+        "Estrategias de inversión complejas",
+        "Acceso limitado y altas comisiones"
+      ]
+    },
+    {
+      "name": "Bonos de Corto Plazo",
+      "description": "Inversiones en bonos con vencimientos a corto plazo, ofreciendo rendimientos fijos con baja exposición al riesgo de tasa de interés. Ideal para inversores que buscan seguridad y liquidez.",
+      "props": [
+        "Bajo riesgo",
+        "Rendimiento fijo",
+        "Liquidez alta",
+        "Protección del FSD"
+      ]
+    },
+    {
+      "name": "ETFs de Renta Variable Internacional",
+      "description": "Fondos que ofrecen exposición a mercados de acciones internacionales, permitiendo diversificación y potencial de crecimiento en mercados emergentes y desarrollados.",
+      "props": [
+        "Riesgo medio-alto",
+        "Potencial de alto rendimiento",
+        "Diversificación geográfica",
+        "Liquidez alta"
+      ]
+    },
+    {
+      "name": "Inversión en Commodities",
+      "description": "Inversión directa o a través de fondos en materias primas como oro, plata, petróleo. Atrae a quienes buscan cobertura contra la inflación o diversificar.",
+      "props": [
+        "Riesgo medio",
+        "Rendimiento a través de alquiler/apreciación",
+        "Protección contra la inflación",
+        "Liquidez variable"
+      ]
+    },
+    {
+      "name": "Fondos de Bonos Globales",
+      "description": "Inversión en fondos que manejan portafolios de bonos de diferentes países, buscando aprovechar las diferencias en tasas de interés y fortalezas económicas.",
+      "props": [
+        "Riesgo medio",
+        "Rendimiento fijo",
+        "Diversificación geográfica",
+        "Beneficios tributarios"
+      ]
+    },
+    {
+      "name": "Plataformas de Inversión en Startups Tecnológicas",
+      "description": "Inversiones en startups del sector tecnológico a través de plataformas especializadas, ofreciendo potencial de crecimiento a largo plazo a cambio de un riesgo elevado.",
+      "props": [
+        "Alto riesgo",
+        "Potencial de retorno elevado",
+        "Inversión en tecnología blockchain",
+        "Inversión a largo plazo"
+      ]
+    }
+    
+    
+  ]
+}
